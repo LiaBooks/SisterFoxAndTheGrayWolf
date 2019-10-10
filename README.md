@@ -25,30 +25,30 @@ translation: Français translations/French.md
 
 
     {{1-2}}
-![01](pic/1.png)<!-- style="width: 100%" -->
+![01](pic/1.png)<!-- style="width: 100%; max-width: 800px" -->
 
 
     {{2-3}}
-![02](pic/2.png)<!-- style="width: 100%" -->
+![02](pic/2.png)<!-- style="width: 100%; max-width: 800px" -->
 
 
     {{3-4}}
-![03](pic/3.png)<!-- style="width: 100%" -->
+![03](pic/3.png)<!-- style="width: 100%; max-width: 800px" -->
 
 
     {{4-5}}
-![04](pic/4.png)<!-- style="width: 100%" -->
+![04](pic/4.png)<!-- style="width: 100%; max-width: 800px" -->
 
 
     {{5-6}}
-![05](pic/5.png)<!-- style="width: 100%" -->
+![05](pic/5.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{5}}--
 Лисичка-Сестричка и серын Волк
 
 
     {{6-7}}
-![06](pic/6.png)<!-- style="width: 100%" -->
+![06](pic/6.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{6}}--
 Проголодалась лиса. Бежит по дороге и смотрит по сторонам: нельзя ли чем-нибудь
@@ -56,14 +56,14 @@ translation: Français translations/French.md
 
 
     {{7-8}}
-![07](pic/7.png)<!-- style="width: 100%" -->
+![07](pic/7.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{7}}--
 Видит - везёт мужик на санях мёрзлую рыбу.
 
 
     {{8-9}}
-![08](pic/8.png)<!-- style="width: 100%" -->
+![08](pic/8.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{8}}--
 Забежала лиса вперёд, легла на дорогу, хвост откинула, ноги вытянула... ну,
@@ -71,7 +71,7 @@ translation: Français translations/French.md
 
 
     {{9-10}}
-![09](pic/9.png)<!-- style="width: 100%" -->
+![09](pic/9.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{9}}--
 Подъехал мужик, посмотрел на лису и говорит: "Славный будет воротник жене на
@@ -79,14 +79,14 @@ translation: Français translations/French.md
 
 
     {{10-11}}
-![10](pic/10.png)<!-- style="width: 100%" -->
+![10](pic/10.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{10}}--
 Взял мужик лису за хвост и швырнул в сани.
 
 
     {{11-12}}
-![11](pic/11.png)<!-- style="width: 100%" -->
+![11](pic/11.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{11}}--
 Недолго пролежала лисонька: проделала в межке дыру и давай рыбу саней
@@ -94,21 +94,21 @@ translation: Français translations/French.md
 
 
     {{12-13}}
-![12](pic/12.png)<!-- style="width: 100%" -->
+![12](pic/12.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{12}}--
 Рыбка за рыбкой, рыбка за рыбкой - бсю и повыкидывала.
 
 
     {{13-14}}
-![13](pic/13.png)<!-- style="width: 100%" -->
+![13](pic/13.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{13}}--
 А потом и сама из саней потихоньку вылезла.
 
 
     {{14-15}}
-![14](pic/14.png)<!-- style="width: 100%" -->
+![14](pic/14.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{14}}--
 Приехал мужик домой. - "Ну, старуха, - говорит он, - какой воротник привёз я
@@ -116,14 +116,14 @@ translation: Français translations/French.md
 
 
     {{15-16}}
-![15](pic/15.png)<!-- style="width: 100%" -->
+![15](pic/15.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{15}}--
 Подошла баба к возу: ни воротника, ни рыбы.
 
 
     {{16-17}}
-![16](pic/16.png)<!-- style="width: 100%" -->
+![16](pic/16.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{16}}--
 Тут дед смекнул, что лисичка-то была не мёртвая, погоревал, погоревал, да делать
@@ -131,21 +131,21 @@ translation: Français translations/French.md
 
 
     {{17-18}}
-![17](pic/17.png)<!-- style="width: 100%" -->
+![17](pic/17.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{17}}--
 А лиса перетаскала всю рыбу к себе в нору, села у норы и рибку кушает.
 
 
     {{18-19}}
-![18](pic/18.png)<!-- style="width: 100%" -->
+![18](pic/18.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{18}}--
 Видит лиса - бежит волк. От голода у него бока подвело.
 
 
     {{19-20}}
-![19](pic/19.png)<!-- style="width: 100%" -->
+![19](pic/19.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{19}}--
 - "Здравствуй, сестрица!" - "Сдравствуй, братец". - "Что кушаешь?" - "Рыбку". -
@@ -153,7 +153,16 @@ translation: Français translations/French.md
 
 
     {{20-21}}
-![20](pic/20.png)<!-- style="width: 100%" -->
+![20](pic/20.png)<!-- style="width: 100%; max-width: 800px" -->
 
     --{{20}}--
 - "Налови сам да кушай". - "Я не умею". - "Эна, ведь я же наловила".
+
+
+    {{21-22}}
+![21](pic/21.png)<!-- style="width: 100%; max-width: 800px" -->
+
+    --{{21}}--
+Ступай на реку, опусти хвост в прорубь, сиди да приговаривай: "Ловось, рыбка, и
+мала и велика". Рыбка к тебе сама на хвост нацепится. Да смотри, сиди подольше,
+а то не наловишь.
