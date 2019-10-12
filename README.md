@@ -7,6 +7,10 @@ version:  0.0.1
 
 language: en
 
+mode:     Textbook
+
+dark:     true
+
 narrator: Russian Female
 
 link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css
