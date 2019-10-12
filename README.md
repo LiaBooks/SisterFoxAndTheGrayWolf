@@ -24,35 +24,35 @@ translation: Deutsch  translations/German.md
 
     {{1-2}}
 ![01](pic/1.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
 
 
     {{2-3}}
 ![02](pic/2.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
 
 
     {{3-4}}
 ![03](pic/3.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
 
 
     {{4-5}}
 ![04](pic/4.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
 
 
     {{5-6}}
 ![05](pic/5.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{5}}--
@@ -62,7 +62,7 @@ class="animated fadeInDown" -->
 
     {{6-7}}
 ![06](pic/6.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{6}}--
@@ -73,7 +73,7 @@ class="animated fadeInDown" -->
 
     {{7-8}}
 ![07](pic/7.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{7}}--
@@ -83,7 +83,7 @@ class="animated fadeInDown" -->
 
     {{8-9}}
 ![08](pic/8.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{8}}--
@@ -94,7 +94,7 @@ class="animated fadeInDown" -->
 
     {{9-10}}
 ![09](pic/9.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{9}}--
@@ -105,7 +105,7 @@ class="animated fadeInDown" -->
 
     {{10-11}}
 ![10](pic/10.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{10}}--
@@ -115,7 +115,7 @@ class="animated fadeInDown" -->
 
     {{11-12}}
 ![11](pic/11.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{11}}--
@@ -126,7 +126,7 @@ class="animated fadeInDown" -->
 
     {{12-13}}
 ![12](pic/12.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{12}}--
@@ -136,7 +136,7 @@ class="animated fadeInDown" -->
 
     {{13-14}}
 ![13](pic/13.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{13}}--
@@ -146,7 +146,7 @@ class="animated fadeInDown" -->
 
     {{14-15}}
 ![14](pic/14.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{14}}--
@@ -157,7 +157,7 @@ class="animated fadeInDown" -->
 
     {{15-16}}
 ![15](pic/15.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{15}}--
@@ -167,7 +167,7 @@ class="animated fadeInDown" -->
 
     {{16-17}}
 ![16](pic/16.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{16}}--
@@ -178,7 +178,7 @@ class="animated fadeInDown" -->
 
     {{17-18}}
 ![17](pic/17.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{17}}--
@@ -188,7 +188,7 @@ class="animated fadeInDown" -->
 
     {{18-19}}
 ![18](pic/18.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{18}}--
@@ -198,7 +198,7 @@ class="animated fadeInDown" -->
 
     {{19-20}}
 ![19](pic/19.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{19}}--
@@ -209,7 +209,7 @@ class="animated fadeInDown" -->
 
     {{20-21}}
 ![20](pic/20.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{20}}--
@@ -219,7 +219,7 @@ class="animated fadeInDown" -->
 
     {{21-22}}
 ![21](pic/21.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{21}}--
@@ -231,7 +231,7 @@ class="animated fadeInDown" -->
 
     {{22-23}}
 ![22](pic/22.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{22}}--
@@ -242,7 +242,7 @@ class="animated fadeInDown" -->
 
     {{23-24}}
 ![23](pic/23.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{23}}--
@@ -253,7 +253,7 @@ class="animated fadeInDown" -->
 
     {{24-25}}
 ![24](pic/24.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{24}}--
@@ -264,7 +264,7 @@ class="animated fadeInDown" -->
 
     {{25-26}}
 ![25](pic/25.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{25}}--
@@ -275,7 +275,7 @@ class="animated fadeInDown" -->
 
     {{26-27}}
 ![26](pic/26.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{26}}--
@@ -286,7 +286,7 @@ class="animated fadeInDown" -->
 
     {{27-28}}
 ![27](pic/27.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{27}}--
@@ -296,7 +296,7 @@ class="animated fadeInDown" -->
 
     {{28-29}}
 ![28](pic/28.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{28}}--
@@ -307,7 +307,7 @@ class="animated fadeInDown" -->
 
     {{29-30}}
 ![29](pic/29.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{29}}--
@@ -317,7 +317,7 @@ class="animated fadeInDown" -->
 
     {{30-31}}
 ![30](pic/30.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{30}}--
@@ -327,7 +327,7 @@ class="animated fadeInDown" -->
 
     {{31-32}}
 ![31](pic/31.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{31}}--
@@ -338,7 +338,7 @@ class="animated fadeInDown" -->
 
     {{32-33}}
 ![32](pic/32.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{32}}--
@@ -349,7 +349,7 @@ class="animated fadeInDown" -->
 
     {{33-34}}
 ![33](pic/33.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{33}}--
@@ -361,7 +361,7 @@ class="animated fadeInDown" -->
 
     {{34-35}}
 ![34](pic/34.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{34}}--
@@ -371,7 +371,7 @@ class="animated fadeInDown" -->
 
       {{35}}
 ![35](pic/35.png)<!--
-style="width: 100%; max-width: 800px"
+style="width: calc(100vmin - 60px)"
 class="animated fadeInDown" -->
 
     --{{35}}--
