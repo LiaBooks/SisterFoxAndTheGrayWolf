@@ -7,7 +7,7 @@ version:  0.0.1
 
 language: en
 
-mode:     Textbook
+mode:     Presentation
 
 dark:     true
 
