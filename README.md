@@ -3,7 +3,13 @@ author:   André Dietrich
 
 email:    LiaScript@web.de
 
-version:  0.0.1
+version:  0.0.2
+
+logo:     pic/6.png
+
+comment:  This is originally a dia-show of russian folktale "Sister fox and the
+          gray wolf". It is an experiment, how good this format can be used for
+          story-telling. A german version is also available.
 
 language: en
 
@@ -15,7 +21,7 @@ narrator: Russian Female
 
 link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css
 
-translation: Deutsch  translations/German.md
+translation: Deutsch  GERMAN.md
 
 -->
 
